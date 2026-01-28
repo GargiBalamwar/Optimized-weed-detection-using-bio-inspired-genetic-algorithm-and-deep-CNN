@@ -1,5 +1,4 @@
 # Optimized-weed-detection-using-bio-inspired-genetic-algorithm-and-deep-CNN
-# Optimized-weed-detection-using-bio-inspired-genetic-algorithm-and-deep-CNN
 Weed Detection using GA-Optimized CNN
 
 A deep learning-based **weed detection system** that uses a **Genetic Algorithm (GA)-optimized Convolutional Neural Network (CNN)** to classify weed species from agricultural field images with high accuracy and faster convergence.
