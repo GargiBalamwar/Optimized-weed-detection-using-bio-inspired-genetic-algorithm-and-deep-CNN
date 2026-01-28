@@ -1,0 +1,1 @@
+# Optimized-weed-detection-using-bio-inspired-genetic-algorithm-and-deep-CNN
